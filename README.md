@@ -1,5 +1,9 @@
 # ArtStreet
 
+ArtStreet is an Android app built with Kotlin and Jetpack Compose that helps users share and discover art locations nearby. It uses Google Maps to display art spots and Firebase to store posts and user information. Users can add their favorite art locations, browse a feed of nearby sites, and receive notifications when they are close to a shared location. The app also features leaderboards for the most shared and most visited locations, lets users mark places they’ve visited, and includes search and filter tools to make exploring local art easier.
+
+Below are some example screens highlighting key features of the application:
+
 <p align="center">
   <img width="45%" alt="Loading" src="https://github.com/user-attachments/assets/7da90f6c-d674-418d-97d6-ad34f947f015" />
   <img width="45%" alt="Locations" src="https://github.com/user-attachments/assets/68893cbb-ccdf-44f2-8c3f-dc6d41a6d954" />
